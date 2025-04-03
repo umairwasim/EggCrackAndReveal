@@ -1,4 +1,4 @@
-# EggCrackAndReveal
+# Egg Crack And Reveal
 Egg Cracking and Revealing 3D Character Animation
 Unity 2022.3.60f1 LTS
 
